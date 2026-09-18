@@ -1,0 +1,77 @@
+{
+  "errors": [],
+  "routes": [
+    {
+      "id": "botamon-koromon",
+      "controls": true,
+      "free": true,
+      "time": 7.39,
+      "skill": true
+    },
+    {
+      "id": "koromon-agumon",
+      "controls": true,
+      "free": true,
+      "time": 8.440000000000001,
+      "skill": true
+    },
+    {
+      "id": "agumon-greymon",
+      "controls": true,
+      "free": true,
+      "time": 14.165000000000001,
+      "skill": true
+    },
+    {
+      "id": "greymon-metalgreymon",
+      "controls": true,
+      "free": true,
+      "time": 18.915,
+      "skill": true
+    },
+    {
+      "id": "agumon-wargreymon",
+      "controls": true,
+      "free": true,
+      "time": 23.09,
+      "skill": true
+    }
+  ],
+  "retained": [
+    {
+      "t": 0,
+      "delta": 0
+    },
+    {
+      "t": 1.4,
+      "delta": 0
+    },
+    {
+      "t": 5.6,
+      "delta": 0
+    },
+    {
+      "t": 10.5,
+      "delta": 0
+    },
+    {
+      "t": 16.3,
+      "delta": 0
+    },
+    {
+      "t": 21,
+      "delta": 0
+    }
+  ],
+  "mouseDrag": true,
+  "wheel": true,
+  "reset": {
+    "preservesTime": true,
+    "repeatStable": true
+  },
+  "resizeRetainsView": true,
+  "touch": true,
+  "buildHash": "07b797e6e69aedd2fd711dba36644b2cfca15c3d70529cf43c81f5ae7e55f1c2",
+  "preservedSources": 18,
+  "previousHash": "2a5e0fff70ff37287fad500f28f71a32a5194c1c69913399f7f55f7c772ea227"
+}

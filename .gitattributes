@@ -1,0 +1,2 @@
+# Preserve the exact saved bytes and snapshot SHA-256 values on every platform.
+* -text

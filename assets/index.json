@@ -1,0 +1,110 @@
+{
+  "botamon": {
+    "dae": {
+      "file": "botamon/model.dae",
+      "encoding": "utf8"
+    },
+    "texture": {
+      "file": "botamon/texture.png",
+      "mime": "image/png"
+    },
+    "blink": {
+      "file": "botamon/blink.png",
+      "mime": "image/png"
+    },
+    "reference": {
+      "file": "botamon/reference.jpg",
+      "mime": "image/jpeg"
+    }
+  },
+  "koromon": {
+    "dae": {
+      "file": "koromon/model.dae",
+      "encoding": "utf8"
+    },
+    "texture": {
+      "file": "koromon/texture.png",
+      "mime": "image/png"
+    },
+    "blink": {
+      "file": "koromon/blink.png",
+      "mime": "image/png"
+    },
+    "reference": {
+      "file": "koromon/reference.jpg",
+      "mime": "image/jpeg"
+    }
+  },
+  "agumon": {
+    "dae": {
+      "file": "agumon/model.dae",
+      "encoding": "utf8"
+    },
+    "texture": {
+      "file": "agumon/texture.png",
+      "mime": "image/png"
+    },
+    "blink": {
+      "file": "agumon/blink.png",
+      "mime": "image/png"
+    },
+    "reference": {
+      "file": "agumon/reference.jpg",
+      "mime": "image/jpeg"
+    }
+  },
+  "greymon": {
+    "dae": {
+      "file": "greymon/model.dae",
+      "encoding": "utf8"
+    },
+    "texture": {
+      "file": "greymon/texture.png",
+      "mime": "image/png"
+    },
+    "blink": {
+      "file": "greymon/blink.png",
+      "mime": "image/png"
+    },
+    "reference": {
+      "file": "greymon/reference.png",
+      "mime": "image/png"
+    }
+  },
+  "metalgreymon": {
+    "dae": {
+      "file": "metalgreymon/model.dae",
+      "encoding": "utf8"
+    },
+    "texture": {
+      "file": "metalgreymon/texture.png",
+      "mime": "image/png"
+    },
+    "blink": {
+      "file": "metalgreymon/blink.png",
+      "mime": "image/png"
+    },
+    "reference": {
+      "file": "metalgreymon/reference.jpg",
+      "mime": "image/jpeg"
+    }
+  },
+  "wargreymon": {
+    "dae": {
+      "file": "wargreymon/model.dae",
+      "encoding": "utf8"
+    },
+    "texture": {
+      "file": "wargreymon/texture.png",
+      "mime": "image/png"
+    },
+    "blink": {
+      "file": "wargreymon/blink.png",
+      "mime": "image/png"
+    },
+    "reference": {
+      "file": "wargreymon/reference.jpg",
+      "mime": "image/jpeg"
+    }
+  }
+}

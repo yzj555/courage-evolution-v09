@@ -1,0 +1,15 @@
+{
+  "errors": [],
+  "external": [],
+  "filePreview": true,
+  "httpPreview": true,
+  "sourceRebuild": "byte-identical",
+  "forms": [
+    "agumon",
+    "wargreymon",
+    "greymon",
+    "metalgreymon"
+  ],
+  "backLink": true,
+  "previewMessage": "Preview: http://127.0.0.1:4183/cinema.html"
+}

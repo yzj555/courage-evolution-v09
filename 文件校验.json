@@ -1,0 +1,450 @@
+{
+  "version": "进化演出修订09独立项目 · GitHub 保存版",
+  "savedDate": "2026-09-18",
+  "snapshotDate": "2026-09-17",
+  "entry": "dist/cinema.html",
+  "source": "src/cinema-viewer.js",
+  "scope": "上传 GitHub 的项目文件，不含本清单、.git/、node_modules/；原始独立目录清单见 qa/独立目录原始校验.json",
+  "files": [
+    {
+      "file": ".gitattributes",
+      "bytes": 88,
+      "sha256": "3879b7ce0c0fc08f57d87ef42f174a70dc47ed1b7e0b65f25414003057f644a2"
+    },
+    {
+      "file": ".gitignore",
+      "bytes": 83,
+      "sha256": "4447241ebf9ed714eb0d7dc1992fb0a324c5dccdce6259462d7c4a479997ca16"
+    },
+    {
+      "file": "README.md",
+      "bytes": 3388,
+      "sha256": "a82b939784eda19ebc1282300bcf806a2afc09170aead696ce6ecc00b617262d"
+    },
+    {
+      "file": "assets/README.md",
+      "bytes": 964,
+      "sha256": "4d61c48d1dd2a54efb1fb63a93d9aefad19ba495ca8df2bb83d61aa8c6a21f9d"
+    },
+    {
+      "file": "assets/agumon/Texture2D/chr050a01.png",
+      "bytes": 219453,
+      "sha256": "edc018fe68d95dd97ad93e9f7d449e8edb687cc4d36db4f5e2d4be933e085378"
+    },
+    {
+      "file": "assets/agumon/blink.png",
+      "bytes": 217249,
+      "sha256": "5ee70f4c1ba647e776f7caa1c7c8d43cf3eb3df20447a3e814e29872809c749b"
+    },
+    {
+      "file": "assets/agumon/model.dae",
+      "bytes": 458903,
+      "sha256": "4c5bca90ad5ef3f70087edd481aa9ab0fcf9949588e0e40abb92d9fc60814d0a"
+    },
+    {
+      "file": "assets/agumon/reference.jpg",
+      "bytes": 743684,
+      "sha256": "3afae8df23c00c13718c67fbca1e458917f942d77a8e4d90dfe1dd573a0812bf"
+    },
+    {
+      "file": "assets/agumon/texture.png",
+      "bytes": 219453,
+      "sha256": "edc018fe68d95dd97ad93e9f7d449e8edb687cc4d36db4f5e2d4be933e085378"
+    },
+    {
+      "file": "assets/botamon/Texture2D/chr317a01.png",
+      "bytes": 50375,
+      "sha256": "3efef0819be173af96b78f0f230000a47351389f0754c24807ecf0e673f8f4dd"
+    },
+    {
+      "file": "assets/botamon/blink.png",
+      "bytes": 48744,
+      "sha256": "6b600295bbf957bb10959f74a9542f39de5240e2ae66db298061285d62145a5c"
+    },
+    {
+      "file": "assets/botamon/model.dae",
+      "bytes": 56857,
+      "sha256": "dd2fe494a421b722a2ed0d85ca08d3b3d90ad226a9730c4b828d1465e2e9b11a"
+    },
+    {
+      "file": "assets/botamon/reference.jpg",
+      "bytes": 42972,
+      "sha256": "58c9abf80b8667dd0a47a1ad8be31e51d63ac6ae02c2099b6068927c045e5ea1"
+    },
+    {
+      "file": "assets/botamon/texture.png",
+      "bytes": 50375,
+      "sha256": "3efef0819be173af96b78f0f230000a47351389f0754c24807ecf0e673f8f4dd"
+    },
+    {
+      "file": "assets/greymon/Texture2D/chr326a01.png",
+      "bytes": 261302,
+      "sha256": "29773046dca0dcf3f078916067586954c0628c0b12b5e8bf0781f535295e4633"
+    },
+    {
+      "file": "assets/greymon/blink.png",
+      "bytes": 261720,
+      "sha256": "2ca938d2f4aab2217bb4cce7375b78161eb8946d5c086253e6bb2e66b855f9fb"
+    },
+    {
+      "file": "assets/greymon/model.dae",
+      "bytes": 473959,
+      "sha256": "a366998849e4b6475595c4e4334e09c001189de8ac43f7c38c903471778fef70"
+    },
+    {
+      "file": "assets/greymon/reference.png",
+      "bytes": 424588,
+      "sha256": "4e6bc5b970e7bc556b36e047f557a09a296236127d7756d56d5f51290c3d23cb"
+    },
+    {
+      "file": "assets/greymon/texture.png",
+      "bytes": 261302,
+      "sha256": "29773046dca0dcf3f078916067586954c0628c0b12b5e8bf0781f535295e4633"
+    },
+    {
+      "file": "assets/index.json",
+      "bytes": 2311,
+      "sha256": "c3b640da3c76364601767079b90d1503797f6620c213dbd8974a87e1f636fb7b"
+    },
+    {
+      "file": "assets/koromon/Texture2D/chr322a01.png",
+      "bytes": 63700,
+      "sha256": "2b86a85a51fbeedfa85f2c6272293b1b8ee700d5427fef7c6efd8855e621d32c"
+    },
+    {
+      "file": "assets/koromon/blink.png",
+      "bytes": 56911,
+      "sha256": "445c77e7d775cb08acdee70127731f848f333806f9fb3ada0c97339cd68de09e"
+    },
+    {
+      "file": "assets/koromon/model.dae",
+      "bytes": 128126,
+      "sha256": "1b5482d84f99ceb4654269f4ed7e8fa9e3b43517257198818ee021f676875c14"
+    },
+    {
+      "file": "assets/koromon/reference.jpg",
+      "bytes": 35794,
+      "sha256": "8314d3dec9f9c24dd7ede1599fa5f0b1dad82e0796ea8ad981a0257f8e7b912e"
+    },
+    {
+      "file": "assets/koromon/texture.png",
+      "bytes": 63700,
+      "sha256": "2b86a85a51fbeedfa85f2c6272293b1b8ee700d5427fef7c6efd8855e621d32c"
+    },
+    {
+      "file": "assets/metalgreymon/Texture2D/chr302a01.png",
+      "bytes": 307636,
+      "sha256": "38948421c442ca8a1ec123e864679f01c2542bfeb017e965bbf0c66b6fe8cb6f"
+    },
+    {
+      "file": "assets/metalgreymon/blink.png",
+      "bytes": 309177,
+      "sha256": "b85c0f9c965200d95505e5a2270d8b571e7f27baab2c4bca0d0a3a6ce705459b"
+    },
+    {
+      "file": "assets/metalgreymon/model.dae",
+      "bytes": 841545,
+      "sha256": "80cd324c6ea491a4ec18c9e4292ebf88f2c2e251def2757a0769f8997310a404"
+    },
+    {
+      "file": "assets/metalgreymon/reference.jpg",
+      "bytes": 289611,
+      "sha256": "fe16f65a12dbf3316d8e727648ae5418a1327930ae1e77fe36dbe0fe83cfcecd"
+    },
+    {
+      "file": "assets/metalgreymon/texture.png",
+      "bytes": 307636,
+      "sha256": "38948421c442ca8a1ec123e864679f01c2542bfeb017e965bbf0c66b6fe8cb6f"
+    },
+    {
+      "file": "assets/wargreymon/Texture2D/chr027a01.png",
+      "bytes": 315827,
+      "sha256": "50ded26da44890ae1869ec72971598a0b1ba555fdb5061a460519af67149cf1a"
+    },
+    {
+      "file": "assets/wargreymon/blink.png",
+      "bytes": 317046,
+      "sha256": "720fbf772a3a62522184987af9db5d1fbe290a4671d7cb7bf64d201e6a6b1f53"
+    },
+    {
+      "file": "assets/wargreymon/model.dae",
+      "bytes": 845021,
+      "sha256": "6fa5e88d6ec8be811de0ee2adf8c049a396f589fd1e627819f592d73ceb1ca3a"
+    },
+    {
+      "file": "assets/wargreymon/reference.jpg",
+      "bytes": 298645,
+      "sha256": "0e0a2e69222e254e8fdb6c4f2386c4ae972d1459b9c16c405dddf87c9482caa6"
+    },
+    {
+      "file": "assets/wargreymon/texture.png",
+      "bytes": 315827,
+      "sha256": "50ded26da44890ae1869ec72971598a0b1ba555fdb5061a460519af67149cf1a"
+    },
+    {
+      "file": "dist/cinema.html",
+      "bytes": 9396727,
+      "sha256": "07b797e6e69aedd2fd711dba36644b2cfca15c3d70529cf43c81f5ae7e55f1c2"
+    },
+    {
+      "file": "dist/evolution-v13.html",
+      "bytes": 9386079,
+      "sha256": "fe9a6a6cfa529cd2b42662eb8d884e65df9010d612b57102b3a47404cf7a4103"
+    },
+    {
+      "file": "docs/保留展台说明.md",
+      "bytes": 8413,
+      "sha256": "11c15eb87870f754b0beb6245e4c6aa8eb594413e7dee450d5e76e68700c011c"
+    },
+    {
+      "file": "docs/原演出说明.md",
+      "bytes": 9328,
+      "sha256": "a0878fa3a5b686989ce20eeb722958d40a09f25133f505a819ce611e7fc5f001"
+    },
+    {
+      "file": "package-lock.json",
+      "bytes": 15148,
+      "sha256": "62f98bdf3ba389d71298cdb8853da350ea23f91b718850a92490dd4c474faf89"
+    },
+    {
+      "file": "package.json",
+      "bytes": 407,
+      "sha256": "9e8e35408c21753f13e0b3f0087f2dc7102b820a2391748f0ddfe45f0f06a1f3"
+    },
+    {
+      "file": "qa/修订09交互验证.json",
+      "bytes": 1431,
+      "sha256": "a192d3bdb2b7f0d70eab0005502c0a23cb6eb2ff257f22f14e8d8e1903d3393b"
+    },
+    {
+      "file": "qa/来源清单.json",
+      "bytes": 14617,
+      "sha256": "f769b27fa5e5fe47f4a03839e9d8987bc65321a7db5cc93cb65d7df4f7e7c62c"
+    },
+    {
+      "file": "qa/独立目录原始校验.json",
+      "bytes": 16081,
+      "sha256": "6fd3d7d22435a7ca18080b6595bdf646f4a9cf20791fe35a9d92167f35420665"
+    },
+    {
+      "file": "qa/独立目录预览.png",
+      "bytes": 839630,
+      "sha256": "d4eb9ca9a33002507044c414b48ef2326e03c1537985b27bcbf4dddf9408e260"
+    },
+    {
+      "file": "qa/独立运行验证.json",
+      "bytes": 289,
+      "sha256": "ade9761cd1f3cb8aa7bd67c16753b384c2dc1e81829189c756c3df08fe560d76"
+    },
+    {
+      "file": "qa/盖亚能量炮.png",
+      "bytes": 846833,
+      "sha256": "3d784fda295ff9210814b972fbdbafdbc90d18924bdb2ce9e5aa6a2961b77dc6"
+    },
+    {
+      "file": "qa/窄屏预览.png",
+      "bytes": 231453,
+      "sha256": "3ca1e3fba41fab7a4df8ae6c4caec8f0b2290c5970e7a8e36e03c39adb704817"
+    },
+    {
+      "file": "qa/默认视角.png",
+      "bytes": 847202,
+      "sha256": "f79ee3ac202a87fa84f8870ef898148f9adcf90ce86c10bbc0dcf088c2e292e2"
+    },
+    {
+      "file": "scripts/build.cjs",
+      "bytes": 2414,
+      "sha256": "4432a1c4b6564c87b0eb6945c9f00549a646a6c11acd57218d328a8a58c9b9ce"
+    },
+    {
+      "file": "scripts/preview.cjs",
+      "bytes": 1740,
+      "sha256": "044b909ce150d662a070db150601333aaaa34a5b3111851fa0e08887788616be"
+    },
+    {
+      "file": "src/agumon-signature.js",
+      "bytes": 1776,
+      "sha256": "7dad70fbc8dc37edd5c74fd0b58112483f13c6cccef894df66584165a4d4dcc8"
+    },
+    {
+      "file": "src/cinema-actors.js",
+      "bytes": 11643,
+      "sha256": "cf84ab3d6f58fa01b4a905b7d7ff86e86bbd3b8a0e98d8312f1ee4d3a0b68d9f"
+    },
+    {
+      "file": "src/cinema-audio.js",
+      "bytes": 4301,
+      "sha256": "d3a7a9807d2f798aa067f8cb5fa00900c907d522664a2b505366dd7ebfc4a764"
+    },
+    {
+      "file": "src/cinema-config.js",
+      "bytes": 3845,
+      "sha256": "b6e63bb6fd1ea7d33e3f93b0251ff800f2b8ba421efee071ba6f598eed03a2ba"
+    },
+    {
+      "file": "src/cinema-crest.js",
+      "bytes": 8629,
+      "sha256": "37ed171b04e15af0c658000f0c1878df6a99957a2f13b0b77cb160cd49185c30"
+    },
+    {
+      "file": "src/cinema-data-light.js",
+      "bytes": 847,
+      "sha256": "07421aeb14e07498e46b21c5580a5d8eae574909231f2506c60716feb44ba57d"
+    },
+    {
+      "file": "src/cinema-data-tunnel.js",
+      "bytes": 6039,
+      "sha256": "fa26ab1419e4b0a1b21f1b5f9394da3740725c8e790e2b844543e730f7d95285"
+    },
+    {
+      "file": "src/cinema-digimoji.js",
+      "bytes": 4755,
+      "sha256": "32f84f5e5756ed9dafe531df0e4ee9f0895c90b19a617fd04a7cb97311dd6e2e"
+    },
+    {
+      "file": "src/cinema-digivice.js",
+      "bytes": 8830,
+      "sha256": "7ae926458b288bec93581b75d705c575e9796be45a55fcc3d240501b0ab1c19f"
+    },
+    {
+      "file": "src/cinema-film-effects.js",
+      "bytes": 9261,
+      "sha256": "b5a1bb662210491e86583ee36c99998431d721610e01dbf3f7ccad9f2b13f1bc"
+    },
+    {
+      "file": "src/cinema-post.js",
+      "bytes": 3290,
+      "sha256": "96e2c3a48735a0fc79e67dceea3be99a0094685052109cf2b40f22ecf69ce416"
+    },
+    {
+      "file": "src/cinema-resonance.js",
+      "bytes": 7345,
+      "sha256": "cc6e80c5cba3acb0987375546e68d5fd2e64492d69941feb1c4118e6a4191d31"
+    },
+    {
+      "file": "src/cinema-template.html",
+      "bytes": 11779,
+      "sha256": "a11735c696c51423f8a299b1e557bf5aaf95d465206fe9996f3860538dfe269b"
+    },
+    {
+      "file": "src/cinema-viewer.js",
+      "bytes": 14595,
+      "sha256": "f95f48a597ad6ee9438cb69bc240cd4ceac781c4f34e3b8f416dd679d6b6bcc2"
+    },
+    {
+      "file": "src/dinosaur-proportions.js",
+      "bytes": 6261,
+      "sha256": "666e2f844b345353aabd6a44d07620b931fae9fc4a3d7c2b377dd78d80fa2969"
+    },
+    {
+      "file": "src/evolution-character.js",
+      "bytes": 7368,
+      "sha256": "72f153ed644c7890f9daac0bdf6dc244ccc93c2ce02486ebef5d79312e28f37a"
+    },
+    {
+      "file": "src/evolution-config.js",
+      "bytes": 3189,
+      "sha256": "51a5162b655b53c9a1d6a6b300baf818ecbeac2ec09758360a5328db9dbe5a8a"
+    },
+    {
+      "file": "src/evolution-motion.js",
+      "bytes": 13205,
+      "sha256": "1d7a0728d15b3b9f141ff8a1d59539aba04200c36f2065c10ead141e7524d7a1"
+    },
+    {
+      "file": "src/evolution-template.html",
+      "bytes": 12403,
+      "sha256": "5c8712f414f02d11ea406740f48f7f7233435e3e8e0dbf6c112cfaf1c072c61f"
+    },
+    {
+      "file": "src/evolution-viewer.js",
+      "bytes": 14109,
+      "sha256": "25ea80bce7be54affac42a7957bdcb799358d5fb12143ffcd33d87bc8d142553"
+    },
+    {
+      "file": "src/game-character.js",
+      "bytes": 3355,
+      "sha256": "524d2c577eaa22751db8d3bed705ba49d5f375f5d6d60acae4dd77f863751708"
+    },
+    {
+      "file": "src/game-motion.js",
+      "bytes": 8873,
+      "sha256": "6231d3b9092bcf5b3795fbb2e094a876b38c073c662fb207f233685c140b46d6"
+    },
+    {
+      "file": "src/roar-gust.js",
+      "bytes": 4619,
+      "sha256": "c9cb30e0c0069c6c72eaf31252f7b1e49f8dcc381274fbd27a479656f3c53c51"
+    },
+    {
+      "file": "src/signature-config.js",
+      "bytes": 927,
+      "sha256": "6bbb2d4b402bc971f78d9cbc7c3e5e93f6abd73f590053b78032d33c20ff532e"
+    },
+    {
+      "file": "src/signature-effects.js",
+      "bytes": 18503,
+      "sha256": "feec7644237fc53eb0dbe95cdb6da89c1897cf1aa8d12074a398c8ac4f5d8d8a"
+    },
+    {
+      "file": "src/skill-vfx-primitives.js",
+      "bytes": 9621,
+      "sha256": "9c17d367587d08b9903bdca6ab9e598323b0741277ea8d50f1f7373b78644deb"
+    },
+    {
+      "file": "src/subdivide-skin.js",
+      "bytes": 6303,
+      "sha256": "96f39cd04ad1acdc7f737d5edaad8c7782ee87728bb772b8d4ca67e691b6fb22"
+    },
+    {
+      "file": "src/warrior-motion.js",
+      "bytes": 6506,
+      "sha256": "dff5513a6ca5a95d0d46965819f3a7012e0392ec6fef38c1c090589c6fbacb96"
+    },
+    {
+      "file": "src/warrior-skin.js",
+      "bytes": 2735,
+      "sha256": "9dab7e3a782f9a5625799472b92a226c13fcf689911cee61471dbc5d2bf03ed3"
+    },
+    {
+      "file": "vendor/BufferGeometryUtils.js",
+      "bytes": 35539,
+      "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751"
+    },
+    {
+      "file": "vendor/GLTFExporter.js",
+      "bytes": 86392,
+      "sha256": "e7c29444454eb321b39e4c8b3062944f4fd5299a0e7483e9cb8c0594cdec829f"
+    },
+    {
+      "file": "vendor/LICENSE-THREE.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "file": "vendor/OrbitControls.js",
+      "bytes": 38703,
+      "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+    },
+    {
+      "file": "vendor/loaders/ColladaLoader.js",
+      "bytes": 85542,
+      "sha256": "a778a6886874e5eff0a6cf1e4a15ec3c38d675d13ad3dcd04c3094eecfaf80d2"
+    },
+    {
+      "file": "vendor/loaders/TGALoader.js",
+      "bytes": 11818,
+      "sha256": "7560c445146ed4432a340e312672155d86cf54ad3fc7f5571da12cba9512b5c8"
+    },
+    {
+      "file": "vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "file": "vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    }
+  ]
+}

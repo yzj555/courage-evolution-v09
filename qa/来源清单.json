@@ -1,0 +1,310 @@
+{
+  "release": "cinema-v09",
+  "originalCinemaSHA256": "07b797e6e69aedd2fd711dba36644b2cfca15c3d70529cf43c81f5ae7e55f1c2",
+  "files": [
+    {
+      "file": "vendor/three.core.js",
+      "source": "work/evolution-site/dist/vendor/three.core.js",
+      "originalSHA256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20",
+      "savedSHA256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "vendor/three.module.js",
+      "source": "work/evolution-site/dist/vendor/three.module.js",
+      "originalSHA256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+      "savedSHA256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "vendor/OrbitControls.js",
+      "source": "work/evolution-site/dist/vendor/OrbitControls.js",
+      "originalSHA256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c",
+      "savedSHA256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/evolution-config.js",
+      "source": "work/free3d/evolution-config.js",
+      "originalSHA256": "51a5162b655b53c9a1d6a6b300baf818ecbeac2ec09758360a5328db9dbe5a8a",
+      "savedSHA256": "51a5162b655b53c9a1d6a6b300baf818ecbeac2ec09758360a5328db9dbe5a8a",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/signature-config.js",
+      "source": "work/free3d/signature-config.js",
+      "originalSHA256": "6bbb2d4b402bc971f78d9cbc7c3e5e93f6abd73f590053b78032d33c20ff532e",
+      "savedSHA256": "6bbb2d4b402bc971f78d9cbc7c3e5e93f6abd73f590053b78032d33c20ff532e",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-config.js",
+      "source": "work/free3d/cinema-config.js",
+      "originalSHA256": "b6e63bb6fd1ea7d33e3f93b0251ff800f2b8ba421efee071ba6f598eed03a2ba",
+      "savedSHA256": "b6e63bb6fd1ea7d33e3f93b0251ff800f2b8ba421efee071ba6f598eed03a2ba",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "vendor/loaders/TGALoader.js",
+      "source": "work/free3d/vendor/loaders/TGALoader.js",
+      "originalSHA256": "7560c445146ed4432a340e312672155d86cf54ad3fc7f5571da12cba9512b5c8",
+      "savedSHA256": "7560c445146ed4432a340e312672155d86cf54ad3fc7f5571da12cba9512b5c8",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "vendor/loaders/ColladaLoader.js",
+      "source": "work/free3d/vendor/loaders/ColladaLoader.js",
+      "originalSHA256": "a778a6886874e5eff0a6cf1e4a15ec3c38d675d13ad3dcd04c3094eecfaf80d2",
+      "savedSHA256": "a778a6886874e5eff0a6cf1e4a15ec3c38d675d13ad3dcd04c3094eecfaf80d2",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "vendor/BufferGeometryUtils.js",
+      "source": "work/evolution-site/dist/vendor/BufferGeometryUtils.js",
+      "originalSHA256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751",
+      "savedSHA256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/subdivide-skin.js",
+      "source": "work/free3d/subdivide-skin.js",
+      "originalSHA256": "dd004b416848abf09b5a35de9e1e7094f537d5cb299d77e2d5bdf7a19c63c43f",
+      "savedSHA256": "96f39cd04ad1acdc7f737d5edaad8c7782ee87728bb772b8d4ca67e691b6fb22",
+      "importPathsAdapted": true
+    },
+    {
+      "file": "src/game-motion.js",
+      "source": "work/free3d/game-motion.js",
+      "originalSHA256": "6231d3b9092bcf5b3795fbb2e094a876b38c073c662fb207f233685c140b46d6",
+      "savedSHA256": "6231d3b9092bcf5b3795fbb2e094a876b38c073c662fb207f233685c140b46d6",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/game-character.js",
+      "source": "work/free3d/game-character.js",
+      "originalSHA256": "524d2c577eaa22751db8d3bed705ba49d5f375f5d6d60acae4dd77f863751708",
+      "savedSHA256": "524d2c577eaa22751db8d3bed705ba49d5f375f5d6d60acae4dd77f863751708",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/warrior-motion.js",
+      "source": "work/free3d/warrior-motion.js",
+      "originalSHA256": "dff5513a6ca5a95d0d46965819f3a7012e0392ec6fef38c1c090589c6fbacb96",
+      "savedSHA256": "dff5513a6ca5a95d0d46965819f3a7012e0392ec6fef38c1c090589c6fbacb96",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/evolution-motion.js",
+      "source": "work/free3d/evolution-motion.js",
+      "originalSHA256": "1d7a0728d15b3b9f141ff8a1d59539aba04200c36f2065c10ead141e7524d7a1",
+      "savedSHA256": "1d7a0728d15b3b9f141ff8a1d59539aba04200c36f2065c10ead141e7524d7a1",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/agumon-signature.js",
+      "source": "work/free3d/agumon-signature.js",
+      "originalSHA256": "7dad70fbc8dc37edd5c74fd0b58112483f13c6cccef894df66584165a4d4dcc8",
+      "savedSHA256": "7dad70fbc8dc37edd5c74fd0b58112483f13c6cccef894df66584165a4d4dcc8",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/warrior-skin.js",
+      "source": "work/free3d/warrior-skin.js",
+      "originalSHA256": "9dab7e3a782f9a5625799472b92a226c13fcf689911cee61471dbc5d2bf03ed3",
+      "savedSHA256": "9dab7e3a782f9a5625799472b92a226c13fcf689911cee61471dbc5d2bf03ed3",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/dinosaur-proportions.js",
+      "source": "work/free3d/dinosaur-proportions.js",
+      "originalSHA256": "666e2f844b345353aabd6a44d07620b931fae9fc4a3d7c2b377dd78d80fa2969",
+      "savedSHA256": "666e2f844b345353aabd6a44d07620b931fae9fc4a3d7c2b377dd78d80fa2969",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/evolution-character.js",
+      "source": "work/free3d/evolution-character.js",
+      "originalSHA256": "140e279834d2aff7c5a9f811b08ac0f7c9100f834688146dbb8fceecc7193727",
+      "savedSHA256": "72f153ed644c7890f9daac0bdf6dc244ccc93c2ce02486ebef5d79312e28f37a",
+      "importPathsAdapted": true
+    },
+    {
+      "file": "src/cinema-actors.js",
+      "source": "work/free3d/cinema-actors.js",
+      "originalSHA256": "cf84ab3d6f58fa01b4a905b7d7ff86e86bbd3b8a0e98d8312f1ee4d3a0b68d9f",
+      "savedSHA256": "cf84ab3d6f58fa01b4a905b7d7ff86e86bbd3b8a0e98d8312f1ee4d3a0b68d9f",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/skill-vfx-primitives.js",
+      "source": "work/free3d/skill-vfx-primitives.js",
+      "originalSHA256": "9c17d367587d08b9903bdca6ab9e598323b0741277ea8d50f1f7373b78644deb",
+      "savedSHA256": "9c17d367587d08b9903bdca6ab9e598323b0741277ea8d50f1f7373b78644deb",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-digimoji.js",
+      "source": "work/free3d/cinema-digimoji.js",
+      "originalSHA256": "32f84f5e5756ed9dafe531df0e4ee9f0895c90b19a617fd04a7cb97311dd6e2e",
+      "savedSHA256": "32f84f5e5756ed9dafe531df0e4ee9f0895c90b19a617fd04a7cb97311dd6e2e",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-data-light.js",
+      "source": "work/free3d/cinema-data-light.js",
+      "originalSHA256": "07421aeb14e07498e46b21c5580a5d8eae574909231f2506c60716feb44ba57d",
+      "savedSHA256": "07421aeb14e07498e46b21c5580a5d8eae574909231f2506c60716feb44ba57d",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-digivice.js",
+      "source": "work/free3d/cinema-digivice.js",
+      "originalSHA256": "7ae926458b288bec93581b75d705c575e9796be45a55fcc3d240501b0ab1c19f",
+      "savedSHA256": "7ae926458b288bec93581b75d705c575e9796be45a55fcc3d240501b0ab1c19f",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-crest.js",
+      "source": "work/free3d/cinema-crest.js",
+      "originalSHA256": "37ed171b04e15af0c658000f0c1878df6a99957a2f13b0b77cb160cd49185c30",
+      "savedSHA256": "37ed171b04e15af0c658000f0c1878df6a99957a2f13b0b77cb160cd49185c30",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-resonance.js",
+      "source": "work/free3d/cinema-resonance.js",
+      "originalSHA256": "cc6e80c5cba3acb0987375546e68d5fd2e64492d69941feb1c4118e6a4191d31",
+      "savedSHA256": "cc6e80c5cba3acb0987375546e68d5fd2e64492d69941feb1c4118e6a4191d31",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-data-tunnel.js",
+      "source": "work/free3d/cinema-data-tunnel.js",
+      "originalSHA256": "fa26ab1419e4b0a1b21f1b5f9394da3740725c8e790e2b844543e730f7d95285",
+      "savedSHA256": "fa26ab1419e4b0a1b21f1b5f9394da3740725c8e790e2b844543e730f7d95285",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-film-effects.js",
+      "source": "work/free3d/cinema-film-effects.js",
+      "originalSHA256": "b5a1bb662210491e86583ee36c99998431d721610e01dbf3f7ccad9f2b13f1bc",
+      "savedSHA256": "b5a1bb662210491e86583ee36c99998431d721610e01dbf3f7ccad9f2b13f1bc",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/signature-effects.js",
+      "source": "work/free3d/signature-effects.js",
+      "originalSHA256": "feec7644237fc53eb0dbe95cdb6da89c1897cf1aa8d12074a398c8ac4f5d8d8a",
+      "savedSHA256": "feec7644237fc53eb0dbe95cdb6da89c1897cf1aa8d12074a398c8ac4f5d8d8a",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-post.js",
+      "source": "work/free3d/cinema-post.js",
+      "originalSHA256": "96e2c3a48735a0fc79e67dceea3be99a0094685052109cf2b40f22ecf69ce416",
+      "savedSHA256": "96e2c3a48735a0fc79e67dceea3be99a0094685052109cf2b40f22ecf69ce416",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-audio.js",
+      "source": "work/free3d/cinema-audio.js",
+      "originalSHA256": "d3a7a9807d2f798aa067f8cb5fa00900c907d522664a2b505366dd7ebfc4a764",
+      "savedSHA256": "d3a7a9807d2f798aa067f8cb5fa00900c907d522664a2b505366dd7ebfc4a764",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/cinema-viewer.js",
+      "source": "work/free3d/cinema-viewer.js",
+      "originalSHA256": "a772818c13969a6f2dc96091a2ae563edb1e765657c95cf40f2c00e1e9610acc",
+      "savedSHA256": "f95f48a597ad6ee9438cb69bc240cd4ceac781c4f34e3b8f416dd679d6b6bcc2",
+      "importPathsAdapted": true
+    },
+    {
+      "file": "vendor/GLTFExporter.js",
+      "source": "work/evolution-site/dist/vendor/GLTFExporter.js",
+      "originalSHA256": "e7c29444454eb321b39e4c8b3062944f4fd5299a0e7483e9cb8c0594cdec829f",
+      "savedSHA256": "e7c29444454eb321b39e4c8b3062944f4fd5299a0e7483e9cb8c0594cdec829f",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/roar-gust.js",
+      "source": "work/free3d/roar-gust.js",
+      "originalSHA256": "c9cb30e0c0069c6c72eaf31252f7b1e49f8dcc381274fbd27a479656f3c53c51",
+      "savedSHA256": "c9cb30e0c0069c6c72eaf31252f7b1e49f8dcc381274fbd27a479656f3c53c51",
+      "importPathsAdapted": false
+    },
+    {
+      "file": "src/evolution-viewer.js",
+      "source": "work/free3d/evolution-viewer.js",
+      "originalSHA256": "faf42941468a8157ec0a60c81649082e3d6fb59af447aee71ef72d897cf3769b",
+      "savedSHA256": "25ea80bce7be54affac42a7957bdcb799358d5fb12143ffcd33d87bc8d142553",
+      "importPathsAdapted": true
+    },
+    {
+      "file": "src/cinema-template.html",
+      "source": "work/free3d/cinema-template.html",
+      "originalSHA256": "a11735c696c51423f8a299b1e557bf5aaf95d465206fe9996f3860538dfe269b",
+      "savedSHA256": "a11735c696c51423f8a299b1e557bf5aaf95d465206fe9996f3860538dfe269b"
+    },
+    {
+      "file": "src/evolution-template.html",
+      "source": "work/free3d/evolution-template.html",
+      "originalSHA256": "5c8712f414f02d11ea406740f48f7f7233435e3e8e0dbf6c112cfaf1c072c61f",
+      "savedSHA256": "5c8712f414f02d11ea406740f48f7f7233435e3e8e0dbf6c112cfaf1c072c61f"
+    },
+    {
+      "file": "dist/cinema.html",
+      "source": "work/free3d/cinema.html",
+      "originalSHA256": "07b797e6e69aedd2fd711dba36644b2cfca15c3d70529cf43c81f5ae7e55f1c2",
+      "savedSHA256": "07b797e6e69aedd2fd711dba36644b2cfca15c3d70529cf43c81f5ae7e55f1c2"
+    },
+    {
+      "file": "dist/evolution-v13.html",
+      "source": "work/free3d/evolution-v13-preserved/evolution.html",
+      "originalSHA256": "fe9a6a6cfa529cd2b42662eb8d884e65df9010d612b57102b3a47404cf7a4103",
+      "savedSHA256": "fe9a6a6cfa529cd2b42662eb8d884e65df9010d612b57102b3a47404cf7a4103"
+    },
+    {
+      "file": "vendor/LICENSE-THREE.txt",
+      "source": "work/evolution-site/dist/vendor/LICENSE-THREE.txt",
+      "originalSHA256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601",
+      "savedSHA256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "file": "docs/原演出说明.md",
+      "source": "work/free3d/CINEMA-README.md",
+      "originalSHA256": "a0878fa3a5b686989ce20eeb722958d40a09f25133f505a819ce611e7fc5f001",
+      "savedSHA256": "a0878fa3a5b686989ce20eeb722958d40a09f25133f505a819ce611e7fc5f001"
+    },
+    {
+      "file": "docs/保留展台说明.md",
+      "source": "work/free3d/evolution-v13-preserved/EVOLUTION-README.md",
+      "originalSHA256": "11c15eb87870f754b0beb6245e4c6aa8eb594413e7dee450d5e76e68700c011c",
+      "savedSHA256": "11c15eb87870f754b0beb6245e4c6aa8eb594413e7dee450d5e76e68700c011c"
+    },
+    {
+      "file": "qa/修订09交互验证.json",
+      "source": "work/free3d/cinema-v9-qa/verification.json",
+      "originalSHA256": "a192d3bdb2b7f0d70eab0005502c0a23cb6eb2ff257f22f14e8d8e1903d3393b",
+      "savedSHA256": "a192d3bdb2b7f0d70eab0005502c0a23cb6eb2ff257f22f14e8d8e1903d3393b"
+    },
+    {
+      "file": "qa/默认视角.png",
+      "source": "work/free3d/cinema-v9-qa/default-metal.png",
+      "originalSHA256": "f79ee3ac202a87fa84f8870ef898148f9adcf90ce86c10bbc0dcf088c2e292e2",
+      "savedSHA256": "f79ee3ac202a87fa84f8870ef898148f9adcf90ce86c10bbc0dcf088c2e292e2"
+    },
+    {
+      "file": "qa/盖亚能量炮.png",
+      "source": "work/free3d/cinema-v9-qa/gaia-default.png",
+      "originalSHA256": "3d784fda295ff9210814b972fbdbafdbc90d18924bdb2ce9e5aa6a2961b77dc6",
+      "savedSHA256": "3d784fda295ff9210814b972fbdbafdbc90d18924bdb2ce9e5aa6a2961b77dc6"
+    },
+    {
+      "file": "qa/窄屏预览.png",
+      "source": "work/free3d/cinema-v9-qa/gaia-mobile.png",
+      "originalSHA256": "3ca1e3fba41fab7a4df8ae6c4caec8f0b2290c5970e7a8e36e03c39adb704817",
+      "savedSHA256": "3ca1e3fba41fab7a4df8ae6c4caec8f0b2290c5970e7a8e36e03c39adb704817"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "courage-evolution-v09",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Standalone snapshot of evolution cinema revision 09",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "check": "node scripts/build.cjs --check",
+    "preview": "node scripts/preview.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
